@@ -3,7 +3,7 @@ This is a rewrite of the original program.
 # Compiling and Executing
 Using a system with Rust and the Cargo package manager installed, first clone this repository:
 ```sh
-git clone https://gitlab.com/spekie/spesh.git
+git clone https://github.com/spekie/spesh.git
 ```
 Change your current directory into the cloned repository:
 ```sh
